@@ -5,4 +5,5 @@ package com.zhangshuo02;
  */
 public class Person {
     private int height;
+    private double weight;
 }
